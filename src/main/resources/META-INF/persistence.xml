@@ -6,6 +6,8 @@
     <class>com.mycompany.dogosobregon.entities.HotDog</class>
     <class>com.mycompany.dogosobregon.entities.Pedido</class>
     <class>com.mycompany.dogosobregon.entities.PedidoDetalle</class>
+    <class>com.mycompany.dogosobregon.entities.ClientePreferencia</class>
+    <class>com.mycompany.dogosobregon.entities.ClienteTelefono</class>
     <properties>
       <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/DogosObregon"/>
       <property name="jakarta.persistence.jdbc.user" value="root"/>
